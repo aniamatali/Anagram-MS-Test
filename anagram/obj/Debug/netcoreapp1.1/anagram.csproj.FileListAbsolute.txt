@@ -1,0 +1,8 @@
+/Users/Guest/Desktop/anagram.solution/anagram/bin/Debug/netcoreapp1.1/anagram.deps.json
+/Users/Guest/Desktop/anagram.solution/anagram/bin/Debug/netcoreapp1.1/anagram.runtimeconfig.json
+/Users/Guest/Desktop/anagram.solution/anagram/bin/Debug/netcoreapp1.1/anagram.runtimeconfig.dev.json
+/Users/Guest/Desktop/anagram.solution/anagram/obj/Debug/netcoreapp1.1/anagram.AssemblyInfo.cs
+/Users/Guest/Desktop/anagram.solution/anagram/bin/Debug/netcoreapp1.1/anagram.dll
+/Users/Guest/Desktop/anagram.solution/anagram/bin/Debug/netcoreapp1.1/anagram.pdb
+/Users/Guest/Desktop/anagram.solution/anagram/obj/Debug/netcoreapp1.1/anagram.dll
+/Users/Guest/Desktop/anagram.solution/anagram/obj/Debug/netcoreapp1.1/anagram.pdb
